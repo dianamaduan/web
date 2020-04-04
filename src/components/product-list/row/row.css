@@ -1,0 +1,28 @@
+
+.row {
+    width: 100%;
+    display: flex;
+    border-bottom: 1px solid #e7e7e7;
+}
+.deletebtn{
+        margin:0 10px;
+        height: 36px;
+        width: 60px;
+        color:#282c34;;
+        border:none;
+        padding-left: 12px;
+        align-items: center;
+}
+.textbtn{
+    border:none;
+    background: none;
+    margin-right: 50px;
+}
+
+span{
+    width: 30%;
+}
+
+input{
+    margin-left: 25px;
+}
